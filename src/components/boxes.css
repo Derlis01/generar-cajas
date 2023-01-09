@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aggData {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    margin: 5px;
+    height: 25px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: rgb(214, 214, 214);
+}
+
+.boxes {
+    display: flex;
+}
+
+.azul {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(47, 0, 255);
+    margin: 5px;
+    color: white;
+}
+
+.rojo {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    color: white;
+}
+
+.lila {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(174, 0, 255);
+    margin: 5px;
+    color: white;
+}
